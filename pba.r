@@ -2836,3 +2836,5 @@ cor.test(L8NDVI$L8NDVI_35, L8NDWI$L8NDWI_35,alternative = c("two.sided", "less",
 cor.test(L8NDVI$L8NDVI_36, L8NDWI$L8NDWI_36,alternative = c("two.sided", "less", "greater"),method = c("pearson", "kendall", "spearman"),exact = NULL, conf.level = 0.95, continuity = FALSE)
 cor.test(L8NDVI$L8NDVI_37, L8NDWI$L8NDWI_37,alternative = c("two.sided", "less", "greater"),method = c("pearson", "kendall", "spearman"),exact = NULL, conf.level = 0.95, continuity = FALSE)
 cor.test(L8NDVI$L8NDVI_38, L8NDWI$L8NDWI_38,alternative = c("two.sided", "less", "greater"),method = c("pearson", "kendall", "spearman"),exact = NULL, conf.level = 0.95, continuity = FALSE)
+
+#prueba github
